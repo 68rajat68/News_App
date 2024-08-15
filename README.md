@@ -12,7 +12,7 @@
 ## Project Overview
 The **News-app** is a React application that provides users with the latest news across various categories. Users can easily browse through different news categories and read full articles directly on the platform. The app is designed to be user-friendly, ensuring that users can stay informed on the topics that matter most to them.
 
-The site is hosted on Vercel and can be accessed at <a href="https://news-app-lac-five.vercel.app/" target="_blank">News-app</a>.
+The site is hosted on Vercel and can be accessed at [News-app](https://news-app-lac-five.vercel.app/).
 
 ## Features
 - **Category Selection:** Browse news by selecting from different categories.
@@ -49,7 +49,7 @@ To run the News-app locally, follow these steps:
 5. Open your browser and go to `http://localhost:3000` to see the app in action.
 
 ## Usage
-To use the app, visit the <a href="https://news-app-lac-five.vercel.app/" target="_blank">News-app</a>. Select a category from the options provided, and click on any news link to read the full article.
+To use the app, visit the[News-app](https://news-app-lac-five.vercel.app/). Select a category from the options provided, and click on any news link to read the full article.
 
 
 ## Screenshots
