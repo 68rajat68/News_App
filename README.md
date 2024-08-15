@@ -53,7 +53,13 @@ To use the app, visit the [News-app](https://news-app-lac-five.vercel.app/). Sel
 
 
 ## Screenshots
-Include some screenshots of your app here.
+Here are some screenshots of the News-app:
+
+### Homepage
+![Homepage Screenshot](image_01.png)
+
+### Category Selection
+![Category Selection Screenshot](image_02.png)
 
 
 ## Contact
